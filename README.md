@@ -4,9 +4,9 @@ Implementations of gradient descent, heavy ball, Nesterov acceleration, and Newt
 # Project Title: Optimization Algorithms
 
 ## Overview
-This project implements classical optimization algorithms —
+This project implements classical optimization algorithms:
 Gradient Descent, Heavy Ball, Nesterov Accelerated Gradient,
-and Newton’s Method — and visualizes their trajectories on a convex test function.
+and Newton’s Method, and visualizes their trajectories on a convex test function.
 
 ## Key Features
 - Implements multiple optimization methods from scratch in Python.
