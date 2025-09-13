@@ -15,9 +15,13 @@ and Newton’s Method — and visualizes their trajectories on a convex test fun
 
 ## Example Output
 Gradient Descent iterations (tol=1e-5): 78
+
 Heavy Ball iterations (tol=1e-5): 62
+
 Nesterov iterations (tol=1e-5): 51
+
 Newton iterations (tol=1e-5): 4
+
 ![All Trajectories](images/optimization_trajectories.png)
 Newton iterations (tol=1e-10): 4
 ![Newton Trajectory](images/optimization_newton_trajectory.png)
