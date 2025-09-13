@@ -14,8 +14,8 @@ and Newton’s Method — and visualizes their trajectories on a convex test fun
 - Educational example for convex optimization coursework.
 
 ## Example Output
-![Trajectories](images/optimization_trajectories.png)
-![Trajectories](images/optimization_newton_trajectory.png)
+![All Trajectories](images/optimization_trajectories.png)
+![Newton Trajectory](images/optimization_newton_trajectory.png)
 
 ## Skills Demonstrated
 - Numerical optimization (GD, NAG, Newton)
